@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <Folder Include="05 - DIP\Violacao\" />
     <Folder Include="05 - DIP\Solucao\" />
   </ItemGroup>
 
