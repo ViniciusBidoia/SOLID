@@ -7,7 +7,6 @@
 
   <ItemGroup>
     <Folder Include="02 - OCP\Solucao Extension Methods\" />
-    <Folder Include="02 - OCP\Solucao\" />
     <Folder Include="03 - LSP\Violacao\" />
     <Folder Include="03 - LSP\Solucao\" />
     <Folder Include="04 - ISP\Violacao\" />
