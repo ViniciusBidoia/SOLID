@@ -1,9 +1,10 @@
-﻿using SOLID.ConsoleApp.OCP.Solucao_Extension_Methods;
+﻿using SOLID.ConsoleApp.LSP.Solucao;
+using SOLID.ConsoleApp.OCP.Solucao_Extension_Methods;
 using System;
 
 namespace SOLID.ConsoleApp
 {
-    class Program
+    class Programs
     {
         static void Main(string[] args)
         {
@@ -19,7 +20,7 @@ namespace SOLID.ConsoleApp
                     CaixaEletronico.Operacoes();
                     break;
                 case '2':
-                    //CalculoArea.Calcular();
+                    CalculoArea.Calcular();
                     break;
             }
         }
